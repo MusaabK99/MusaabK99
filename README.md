@@ -17,36 +17,30 @@
 ###
 
 <h3 align="center"><samp>Connect</samp></h3>
-<div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="65" height="65" />
+      <a href="https://www.linkedin.com/in/musaab-mohammed-kubbi-475911212/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="65" height="65" />
+      </a>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=twitter" width="65" height="65" alt="SQ Lite" />
+      <a href="https://x.com/MusaabK99" target="_blank">
+        <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="65" height="65" />
+      </a>
     </td>
     <td align="center" width="100">
-     <img src="https://skillicons.dev/icons?i=gmail" alt="icon" width="65" height="65" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-     <a herf='https://www.linkedin.com/in/musaab-mohammed-kubbi-475911212/'>Linkedin</a>
-    </td>
-    <td>
-     <a herf='https://x.com/MusaabK99'>X</a>
-    </td>
-    <td>
-     <a herf="mailto:mkbusiness202@gmail.com">Gmail</a>
+      <a href="mailto:mkbusiness202@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="65" height="65" />
+      </a>
     </td>
   </tr>
 </table>
 <br><br>
 </div>
+
 <h3 align="center">Languages and Tools: <img src = "./assets/giphy.gif" width ="23"> </h3>
 
-<div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
 <tr>
     <td align="center" width="100">
@@ -177,5 +171,3 @@
     </td> 
  </tr>
 </table>
-<br><br>
-</div>
