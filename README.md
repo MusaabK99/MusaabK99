@@ -25,7 +25,7 @@
       <br>Linkedin</a> 
     </td>
       <td align="center" width="100">
-        <a herf='https://x.com/MusaabKy'><img src="https://skillicons.dev/icons?i=twitter" width="65" height="65" alt="SQ Lite" />
+        <a herf='https://x.com/MusaabK99'><img src="https://skillicons.dev/icons?i=twitter" width="65" height="65" alt="SQ Lite" />
       <br>X</a>
     </td>
     <td align="center" width="100">
