@@ -21,16 +21,16 @@
 <table align="center">
   <tr>
    <td align="center" width="100">
-        <a herf='https://www.linkedin.com/in/musaab-mohammed-kubbi-475911212/'><img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="65" height="65" />
-      <br>Linkedin</a> 
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="65" height="65" />
+      <br><a herf='https://www.linkedin.com/in/musaab-mohammed-kubbi-475911212/'>Linkedin</a> 
     </td>
       <td align="center" width="100">
-        <a herf='https://x.com/MusaabK99'><img src="https://skillicons.dev/icons?i=twitter" width="65" height="65" alt="SQ Lite" />
-      <br>X</a>
+        <img src="https://skillicons.dev/icons?i=twitter" width="65" height="65" alt="SQ Lite" />
+      <br><a herf='https://x.com/MusaabK99'>X</a>
     </td>
     <td align="center" width="100">
-       <a herf="mailto:mkbusiness202@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" alt="icon" width="65" height="65" />
-      <br>Gmail</a>
+       <img src="https://skillicons.dev/icons?i=gmail" alt="icon" width="65" height="65" />
+      <br><a herf="mailto:mkbusiness202@gmail.com"> Gmail</a>
   </tr>
 </table>
 <br><br>
