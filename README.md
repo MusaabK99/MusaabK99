@@ -4,9 +4,9 @@
 
 ###
 
-<h1 align="center"><samp>Hi <img src="./assets/hello.gif"/> , I'm <a href="" target="_blank">Musaab Kubbi</a></samp></h1>
+<h1 align="center"><samp>Hi <img src="./assets/hello.gif"/> , I'm <a href="" target="_blank">Musaab</a></samp></h1>
 
-<h3 align="center"><samp>A Software Engineer from Yemen</samp></h3>
+<h3 align="center"><samp>A Software Engineer from Yemen living in Turkey</samp></h3>
 
 <h4 align="center"><samp>- I’m currently working on expanding my skills in full-stack development.</samp></h4>
 
