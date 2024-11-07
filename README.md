@@ -48,6 +48,10 @@
       <br>JavaScript
     </td>
     <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="nextjs" />
+      <br>Nextjs
+      </td>
+    <td align="center" width="100">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="65" height="65" />
       <br>React
     </td>
@@ -72,15 +76,16 @@
       <br>Bootstrap
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="65" height="65" />
-      <br>Figma
+        <img src="https://skillicons.dev/icons?i=materialui" alt="materialui" width="65" height="65" />
+      </a>
+      <br>Material UI
     </td>
   </tr>
   <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="nextjs" />
-      <br>Nextjs
-      </td>
+  <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="65" height="65" />
+      <br>Figma
+    </td>
      <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Nodejs" />
       <br>Nodejs
@@ -90,84 +95,25 @@
       <br>MongoDB
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="65" height="65" alt="nestjs" />
-      <br>Nestjs
-      </td>
-    <td align="center"  width="100">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="mysql" />
-      <br>My SQL
-    </td>
-           <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="100">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="65" height="65" />
-      <br>Django
-    </td>
-  </tr>
-  <tr>
-  <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="postman" />
       <br>Postman
     </td>
-    <td align="center" width="100">
+  <td align="center" width="100">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="restapi" />
       <br>Rest Api
-    </td>
-    <td align="center" width="100">
-      <a href="#macropower-tech">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutterio" width="65" height="65" />
-      </a>
-      <br>Flutter
-    </td>
-    <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dartlang" width="65" height="65" />
-      <br>Dart
-    </td>
-    <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="65" height="65" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="csharp" width="65" height="65" />
-      </a>
-      <br>C#
     </td>
     <td align="center" width="100">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="65" height="65" />
       </a>
       <br>Docker
     </td>
-    <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="65" height="65" />
-      </a>
-      <br>Kubernetes
-    </td>
-  </tr>
- <tr>
-       <td align="center" width="100"> 
+    <td align="center" width="100"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
       <br>Git
     </td>
-       <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65" />
-      <br>Github
-    </td>  
-    <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="65" height="65" />
-      </a>
-      <br>Nginx
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=materialui" alt="materialui" width="65" height="65" />
-      </a>
-      <br>Material UI
-    </td> 
- </tr>
+  </tr>
 </table>
