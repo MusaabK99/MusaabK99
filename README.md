@@ -56,6 +56,10 @@
       <br>React
     </td>
     <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=react" alt="React Native" width="65" height="65" />
+      <br>React Native
+    </td>
+    <td align="center" width="100">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="ts" width="65" height="65" />
       <br>TypeScript
     </td>
@@ -75,13 +79,14 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="bootstrap" />
       <br>Bootstrap
     </td>
-    <td align="center" width="100">
+    
+  </tr>
+  <tr>
+  <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=materialui" alt="materialui" width="65" height="65" />
       </a>
       <br>Material UI
     </td>
-  </tr>
-  <tr>
   <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="65" height="65" />
       <br>Figma
