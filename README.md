@@ -6,11 +6,10 @@
 
 <h1 align="center"><samp>Hi <img src="./assets/hello.gif"/> , I'm <a href="" target="_blank">Musaab</a></samp></h1>
 
-<h3 align="center"><samp>A Software Engineer </samp></h3>
+<h3><samp> A Software Engineer specialized in Frontend development </samp></h3>
 
-<h4 align="center"><samp>- I’m currently working on expanding my skills in Frontend development.</samp></h4>
-
-<h4 align="center"><samp align="center">- I’m currently learning Mobile app Development</samp></h4>
+- 🚀 <samp>I’m working on expanding my skills.</samp>
+- 📱 <samp>I’m currently learning **Mobile App Development**.</samp>
 
 
 ###
@@ -38,7 +37,7 @@
 <br><br>
 </div>
 
-<h3 align="center">Languages and Tools: <img src = "./assets/giphy.gif" width ="23"> </h3>
+<h3 align="center"><samp>Languages and Tools:</samp> <img src = "./assets/giphy.gif" width ="23"> </h3>
 
 <table align="center">
 <tr>
