@@ -18,7 +18,7 @@
 <table align="center">
   <tr>
     <td align="center" width="100">
-      <a href="https://www.linkedin.com/in/musaab-mohammed-kubbi-475911212/" target="_blank">
+      <a href="https://www.linkedin.com/in/musaabkubbi/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="65" height="65" />
       </a>
     </td>
