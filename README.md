@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/mario.gif" align="center" style="width: 1000px" />
+<img src="./assets/coding.gif" align="center" style="width: 1000px" />
 </div>
 
 ###
