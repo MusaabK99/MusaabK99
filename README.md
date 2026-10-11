@@ -6,10 +6,11 @@
 
 <h1 align="center"><samp>Hi <img src="./assets/hello.gif"/> , I'm <a href="" target="_blank">Musaab</a></samp></h1>
 
-<h3><samp> A Software Engineer specialized in Frontend development </samp></h3>
+<h3><samp> Software Engineer · Full-Stack Developer </samp></h3>
 
-- 🚀 <samp>I’m working on expanding my skills.</samp>
-- 📱 <samp>I’m currently learning **Mobile App Development**.</samp>
+- 🚀 <samp>I build web platforms from idea to launch: product, admin dashboard, API, database and deployment.</samp>
+- 📈 <samp>My work has reached 100,000+ visitors, including event and fan platforms for Team Falcons.</samp>
+- 🌍 <samp>Open to freelance projects and contracts → <a href="https://musaabk.dev">musaabk.dev</a></samp>
 
 
 ###
@@ -73,26 +74,32 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
       <br>Tailwind
     </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    
-  </tr>
-  <tr>
   <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=materialui" alt="materialui" width="65" height="65" />
-      </a>
       <br>Material UI
     </td>
-  <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="65" height="65" />
-      <br>Figma
-    </td>
+  </tr>
+  <tr>
      <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Nodejs" />
       <br>Nodejs
       </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=prisma" width="65" height="65" alt="Prisma" />
+      <br>Prisma
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
+      <br>Redis
+    </td>
           <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
       <br>MongoDB
@@ -101,18 +108,23 @@
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65" />
       <br>Python
     </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="postman" />
-      <br>Postman
-    </td>
   <td align="center" width="100">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="restapi" />
       <br>Rest Api
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="65" height="65" />
-      </a>
       <br>Docker
+    </td>
+  <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="65" height="65" />
+      <br>Figma
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="postman" />
+      <br>Postman
     </td>
     <td align="center" width="100"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
